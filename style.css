@@ -1,12 +1,12 @@
-body{
-
-background:#C2F2E4;
-
-}
-
-h1{
-font-size:80px;
-
-color:#9E2B25;
-
+body{background-color:#C2F2E4;margin:0;font-family:Arial;}
+/* Heading */
+h1{text-align:center;font-size:40px;color:#A4CF4A;margin-top:20px;}
+/* Navigation List */
+ul{list-style:none;padding:0;text-align:center;}
+li{font-size:28px;margin:20px 0;}
+/* Links */
+a{text-decoration:none;color:#35C8B4;font-weight:bold;transition:.3s;}
+a:hover{color:#9E2B25;}
+/* Cover image */
+.cover-image{display:block;margin:auto;padding-top:20px;width:850px;max-width:90%;height:auto;border-radius:20px;
 }
