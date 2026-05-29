@@ -2,7 +2,10 @@ body{background-color:#C2F2E4;margin:0;font-family:Arial;}
 
 .cover-image{display:block;width:850px;height:auto;margin-left:auto;margin-right:auto;padding-top:20px;}
 
-h1{text-align:center;font-size:90px;color:#9E2B25;margin-top:20px;}
+h1{text-align: center; /*font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;*/
+                /*font-size: xx-large;*/
+                color:#9E2B25;
+                font-size: 40px;}
 
 ul{list-style:none;padding:0;margin-top:50px;}
 
